@@ -1,4 +1,4 @@
-# Projeto_Engajamento_Intagram
+# Projeto_Engajamento_Instagram
 Primeiro projeto analisando a base de dados de um instagram e gerando insights sobre ele
 Este repositório contém todos os códigos e arquivos relacionados ao meu projeto de ciência de dados.
 
